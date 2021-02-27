@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6cebf8d-04f5-4c82-8a8d-c0003ecd68bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/coos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo2/2.3bitalgo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo2/2.5bitalgo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo2/Algo-Start-09-03-2020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo2/bitalgo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo3/SortowaniaLiniowe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo3/wskazowki (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo3/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo3/zad5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo3/zad6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo4/Tankowanie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo4/coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitalgo4/perony.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/4d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Bubblesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Bubblesortlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/ListMergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Quicksortbezreku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Selectionsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Sumadwoch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Sumanajblizszax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/Tasks.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/d1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/d2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/d3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/d5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/insertsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/najmniejszaroznica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/quicksort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/ASD_Cw11_offline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/ASD_Cw11_online.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/maxflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab10/skojarzenie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/hashotwarte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/haszlistowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab11/suma2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/B-tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/drzewa przedziałowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12/problemsumy przedziałow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/Tasks.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/brakujacywtablicy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/d11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/d3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/d7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/bucketsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/countingsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/radixsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/zadabniezupel1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/ASD_Cw5_offline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/ASD_Cw_5_zestaw-podstawowy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/CathalanNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/GoldMine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Imprezafirmowa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Knapsack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Programowanie dynamiczne (3).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Subset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/SumtoN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/UglyNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/Wykład.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/ASD_Cw6_offline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/ASD_Cw6_online.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/KnapsackJanickiJ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/TasksJanickiJ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/Zajecia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/algorytmy_zachlanne_wyklad (3).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/huffmanJanickiJ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/proba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ASD_Cw7_offline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/ASD_Cw7_online.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/BFSupel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/DFSupel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/QueueLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/Queuetab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/Quewith2stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/Stacklists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ASD_Cw8_offline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/ASD_Cw8_online.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/Punktyartykulacji.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/kanpsack2d-Jakub Janicki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/krol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/mosty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/ASD_Cw9_offline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/ASD_Cw9_online.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/Euler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/krawedzie 01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/silniespojneskłaodowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab8/sortowanietopologiczne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/ASD_Cw10_offline.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/ASD_Cw10_online.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/Dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/Kruskala.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/Prima.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/bellman-ford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9/floyd-warshall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/Knaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/LCSodczyt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/LIS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/Szachownica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/Zadania DP.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/impreza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/lcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/tank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zDP/zajecia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zExam/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zExam/zad1testy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zExam/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zExam/zad2testy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zExam/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zExam/zad3testy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/BFS najkrótsze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/Dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/Eulertopo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/Grafy.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/Que stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/Silniespojneskładowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/SortowanieTopologiczne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zGraphs/mosty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/Zad1-Janicki.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/Zad2-Janicki.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/Zad3-Janicki.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/kopce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/kthstatistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/linearSorts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/liniowe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/prymitywne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zSorts/sorty.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="coos" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\DyskD\venv\coos\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJfYpW2HqhiD3WLufmjYb2A71t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dysk D\venv\coos\zajecia12" />
+      <recent name="C:\Dysk D\venv\coos\Sorty" />
+      <recent name="C:\Dysk D\venv\coos\zajecia5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dysk D\venv\coos" />
+      <recent name="C:\Dysk D\venv\coos\dp" />
+      <recent name="C:\Dysk D\venv\coos\zajecia8" />
+      <recent name="C:\Dysk D\venv\coos\zajecia2" />
+      <recent name="C:\Dysk D\coos\zajecia1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.zad2">
+    <configuration name="Prima" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zajecia9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zajecia9/Prima.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dod1" type="PythonConfigurationType" factoryName="Python">
+      <module name="coos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zajecia1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zajecia1/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AAAEGZAMIN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AAAEGZAMIN/zad1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AAAEGZAMIN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AAAEGZAMIN/zad2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AAAEGZAMIN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AAAEGZAMIN/zad3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zajecia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dp/zajecia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zad2" />
+        <item itemvalue="Python.zad1 (1)" />
+        <item itemvalue="Python.zad3" />
+        <item itemvalue="Python.zajecia" />
+        <item itemvalue="Python.Prima" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6cebf8d-04f5-4c82-8a8d-c0003ecd68bb" name="Default Changelist" comment="" />
+      <created>1582665667938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582665667938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1854" y="141" key="FileChooserDialogImpl" timestamp="1614359127133">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1854" y="141" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1614359127133" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607607300469" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
