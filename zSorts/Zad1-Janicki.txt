@@ -1,0 +1,68 @@
+Jakub Janicki
+Tworze funkcja is_graterthan(x,y) która zastępuje mi znak >
+Zastepuje znak > ta funkcja w funkcji partition 
+Reszta analogiczna do sposobu działania quicksorta
+Złożoność Quicksort nlogn
+	  is_graterthan uzupełnienie tablic z cyframi len(x)+len(y) 
+			porównanie 2(len(x)+len(y)) wprzypadku gdy nie wystarcza sprawdzanie cyfr jednokrotnych
+
+wiec całkowita złozonosc to O(nlogn *x), gdzie x to ilosc cyfr wszystkich liczb w tablicy
+
+def partition(arr, start, end):
+    i = start - 1
+    pivot = arr[end]
+
+    for j in range(start, end):
+        if is_graterthen(arr[j], pivot):
+            i += 1
+            arr[j], arr[i] = arr[i], arr[j]
+
+    arr[i + 1], arr[end] = arr[end], arr[i + 1]
+    return i + 1
+
+
+def quicksort(arr, start, end):
+    if start < end:
+        q = partition(arr, start, end)
+        quicksort(arr, q + 1, end)
+        quicksort(arr, start, q - 1)
+
+
+def is_graterthen(x, y):
+    numbersx = [0] * 10
+    numbersy = [0] * 10
+    counterx = 0
+    countery = 0
+    while x > 0:
+        num = x % 10
+        x //= 10
+        numbersx[num] += 1
+    while y > 0:
+        num = y % 10
+        y //= 10
+        numbersy[num] += 1
+    for i in range(10):
+        if numbersx[i] == 1:
+            counterx += 1
+        if numbersy[i] == 1:
+            countery += 1
+    if counterx > countery:
+        return True
+    if counterx < countery:
+        return False
+    else:
+        counterx = 0
+        countery = 0
+        for i in range(10):
+            if numbersx[i] > 1:
+                counterx += 1
+            if numbersy[i] > 1:
+                countery += 1
+        if counterx < countery:
+            return True
+        if counterx >= countery:
+            return False
+
+
+def pretty_sort(T):
+    quicksort(T, 0, len(T) - 1)

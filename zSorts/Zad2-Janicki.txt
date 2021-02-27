@@ -1,0 +1,49 @@
+Jakub Janicki
+
+
+# uzywam funkcji partition aby miec na pozycjach od p do q żołnierzy nieposegregowanych ale którzy powinni byc
+# miedzy p i q w posortowanej tablicy(malejąco)
+#sortuje malejaco quicksortem
+#złozonosc kthstatistic o(n), quicksorta O((q - p+1)log(q-p+1))
+czyli złozonosc O(n+(q - p+1)log(q-p+1))
+zaleznie od p i q
+w najgorszym przypadku O(nlogn), gdy mamy posortowac całą tablice
+
+
+def partition(arr, start, end):
+    i = start - 1
+    pivot = arr[end]
+
+    for j in range(start, end):
+        if arr[j] > pivot:
+            i += 1
+            arr[j], arr[i] = arr[i], arr[j]
+
+    arr[i + 1], arr[end] = arr[end], arr[i + 1]
+    return i + 1
+
+def kthStatistics(arr, start, end, k):
+    if start <= end:
+        x = partition(arr, start, end)
+        if x == k:
+            return
+        elif x < k:
+            kthStatistics(arr, x + 1, end, k)
+        else:
+            kthStatistics(arr, start, x - 1, k)
+
+
+def quicksort(arr, start, end):
+    if start < end:
+        q = partition(arr, start, end)
+        quicksort(arr, q + 1, end)
+        quicksort(arr, start, q - 1)
+
+def section(T,p,q):
+    n = len(T)
+    kthStatistics(T, 0, n - 1, p)
+    kthStatistics(T, p, n - 1, q)
+    B = []
+    B.extend(T[p:q+1])
+    quicksort(B,0,q-p)
+    return B

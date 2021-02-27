@@ -1,0 +1,12 @@
+Jakub Janicki
+
+Sortuje liczby quicksortem O(nlogn)
+
+Dla kazdego elementu(szukany) w tablicy
+	przechodze po kazdym elemencie(el) od poczatku tablicy(oprocz szukany) i szukam binsearchem w tablicy elementu o wartosci (szukany - el) innego niż szukany i el
+	Jesli w któryms momencie nie znajde binsearchem odpowiedniej liczby zwracam False
+
+Jesli dojde do konca tablicy to zwracam True
+
+Przejscie 2 petlami po tablicy w taki sposob jak powyzej n^2 dla kazdego przejscia wyszukiwanie binarne log(n)
+Więc złozonosc pesymistyczna O((n)^2*log(n))
